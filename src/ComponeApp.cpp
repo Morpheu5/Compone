@@ -4,11 +4,6 @@
 #include "cinder/Camera.h"
 #include "cinder/app/TouchEvent.h"
 
-#include <CoreFoundation/CoreFoundation.h>
-#include <objc/objc.h>
-#include <objc/objc-runtime.h>
-#include <objc/message.h>
-
 #include "Widgets/Widget.h"
 
 using namespace ci;
